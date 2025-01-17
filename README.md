@@ -1,0 +1,1 @@
+This repository demonstrates a common React Native issue where runtime errors occur due to problems with native module linking. The `Bug.js` file shows an example of code that triggers this error, while `BugSolution.js` provides a solution.  The specific native module is simulated, and the focus is on identifying and resolving the underlying linking issue.
